@@ -1,17 +1,16 @@
+# anybank
 
-![Flutter: Aplicando TDD](https://github.com/ikyrie/3796-anybank/assets/22684176/a5778bd8-978e-4659-90b8-13c690f18040)
+A new Flutter project.
 
-# AnyBank
+## Getting Started
 
-Aplicativo de internet banking para o curso de TDD com Flutter.
+This project is a starting point for a Flutter application.
 
-## 🛠️ Abrir e rodar o projeto
+A few resources to get you started if this is your first Flutter project:
 
-Após baixar o projeto, você pode abrir com o Visual Studio Code. Para isso, na tela inicial clique em:
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-- **Open Folder** (ou alguma opção similar)
-- Procure o local onde o projeto está e o selecione (Caso o projeto seja baixado via zip, é necessário extraí-lo antes de procurá-lo)
-- Por fim clique em OK
-
-O Visual Studio Code deve buscar os pacotes necessários para configurar o projeto, aguarde até finalizar. Ao finalizar a busca, você pode executar o App 🏆
-
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
